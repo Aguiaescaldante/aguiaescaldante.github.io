@@ -10,7 +10,7 @@ MD5sum: 1D86363F85D9941F2412FC11C3E8F986
 Description: This is my Repo. Contact me: aguiaescaldante2021@gmail.com for new tweaks
 Name: iClassic
 Author: Pelaez <me@epelaez.net>
-Depiction: https://aguiaescaldante.github.io/repo/depictions/?p=com.supermamon.newpackage
+Depiction: https://aguiaescaldante.github.io/repo/depictions/?p=net.epelaez.iclassic
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
