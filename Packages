@@ -1,0 +1,15 @@
+Package: com.dba-tech.weathericon
+Version: 6.0.2
+Section: Tweaks
+Maintainer: AguiaEscaldante´s repo <aguiaescaldante2021@gmail.com>
+Depends: firmware (>6.0), mobilesubstrate,applist
+Architecture: iphoneos-arm
+Filename: ./com.dba-tech.weathericon_6.0.2-1_iphoneos-arm.deb
+Size: 158700
+MD5sum: 64E59B5739F5FDF545337B5EBB4771EC
+SHA1: 7628F0902397F36BF04F43CEDD1163B84B0FA768
+SHA256: 6A4EB2C982730FA190F506CF1F2E1AFE95ABE984DE34606D54DE7917B6918871
+Description: This is my Repo. Recovered from Modmyi. Contact me: aguiaescaldante2021@gmail.com for new tweaks
+Name: WeatherIcon 6
+Author: dba Technologies, LLC <support@dba-technologies.com>
+
