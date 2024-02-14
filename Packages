@@ -1,11 +1,11 @@
 Package: net.epelaez.iclassic
-Version: 1.5-1
+Version: 1.5
 Section: Tweaks
 Maintainer: AguiaEscaldante´s repo <aguiaescaldante2021@gmail.com>
 Depends: firmware (>6.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./repo/cydiastore_net.epelaez.iclassic_v1.5.deb
-Size: 661
+Filename: ./iClassic.deb
+Size: 676822
 MD5sum: 1D86363F85D9941F2412FC11C3E8F986
 SHA1: 1C07F0CC052101B87940AB6C38649683E85CB918
 SHA256: E9AC37FD8AD199046B869EF76352C52447260308D9AFBFD0A76EF44BA30C20E7
