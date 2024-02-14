@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: AguiaEscaldante´s repo <aguiaescaldante2021@gmail.com>
 Depends: firmware (>6.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./cydiastore_net.epelaez.iclassic_v1.5.deb
+Filename: ./repo/cydiastore_net.epelaez.iclassic_v1.5.deb
 Size: 661
 MD5sum: 1D86363F85D9941F2412FC11C3E8F986
 SHA1: 1C07F0CC052101B87940AB6C38649683E85CB918
