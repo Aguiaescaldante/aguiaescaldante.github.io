@@ -1,12 +1,12 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
+Package: net.epelaez.iclassic
+Version: 1.5-1
 Section: Tweaks
-Maintainer: AguiaEscaldante´repo <aguiaescaldante2021@gmail.com>
+Maintainer: AguiaEscaldante´s repo <aguiaescaldante2021@gmail.com>
 Depends: firmware (>6.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/net.epelaez.iclassic
+Filename: ./debs/cydiastore_net.epelaez.iclassic_v1.5.deb
 Size: 661
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+MD5sum: 1D86363F85D9941F2412FC11C3E8F986
 Description: This is my Repo. Contact me: aguiaescaldante2021@gmail.com for new tweaks
 Name: iClassic
 Author: Pelaez <me@epelaez.net>
