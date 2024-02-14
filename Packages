@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: AguiaEscaldante´s repo <aguiaescaldante2021@gmail.com>
 Depends: firmware (>6.0), mobilesubstrate,applist,com.arichardson.WeePreferenceLoader
 Architecture: iphoneos-arm
-Filename: ./WeatherIcon6.deb
+Filename: ./com.dba-tech.weathericon_6.0.2-1_iphoneos-arm.deb
 Size: 158700
 MD5sum: 64E59B5739F5FDF545337B5EBB4771EC
 SHA1: 7628F0902397F36BF04F43CEDD1163B84B0FA768
