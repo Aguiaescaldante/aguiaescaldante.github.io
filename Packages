@@ -2,7 +2,7 @@ Package: com.dba-tech.weathericon
 Version: 6.0.2
 Section: Tweaks
 Maintainer: AguiaEscaldante´s repo <aguiaescaldante2021@gmail.com>
-Depends: firmware (>6.0), mobilesubstrate,applist
+Depends: firmware (>6.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./com.dba-tech.weathericon_6.0.2-1_iphoneos-arm.deb
 Size: 158700
