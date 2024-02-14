@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sections</key>
+        <array>
+                <string>com.apple.weathernotifications.bundle</string>
+        </array>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Weather Icon</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>bundle</key>
+			<string>AppList</string>
+			<key>isController</key>
+			<true/>
+			<key>ALAllowsSelection</key>
+			<integer>1</integer>
+			<key>ALSettingsKey</key>
+			<string>Icon</string>
+			<key>label</key>
+			<string>Application</string>
+			<key>ALChangeNotification</key>
+			<string>com.dba-tech.weathericon.prefs</string>
+			<key>ALSettingsPath</key>
+			<string>/User/Library/Preferences/com.dba-tech.weathericon.plist</string>
+			<key>ALSingleEnabledMode</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Status Bar</string>
+		</dict>
+		<dict>
+                        <key>cell</key>
+                        <string>PSSwitchCell</string>
+                        <key>label</key>
+                        <string>Show Weather</string>
+                        <key>key</key>
+                        <string>ShowStatusBarWeather</string>
+                        <key>default</key>
+                        <false/>
+                        <key>defaults</key>
+			<string>com.dba-tech.weathericon</string>
+                        <key>PostNotification</key>
+                        <string>com.dba-tech.weathericon.prefs</string>
+                </dict>
+		<dict>
+                        <key>cell</key>
+                        <string>PSSwitchCell</string>
+                        <key>label</key>
+                        <string>Show Temperature</string>
+                        <key>key</key>
+                        <string>ShowStatusBarTemp</string>
+                        <key>default</key>
+                        <false/>
+                        <key>defaults</key>
+			<string>com.dba-tech.weathericon</string>
+                        <key>PostNotification</key>
+                        <string>com.dba-tech.weathericon.prefs</string>
+                </dict>
+	</array>
+</dict>
+</plist>
+
