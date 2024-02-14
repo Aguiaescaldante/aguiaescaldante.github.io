@@ -7,7 +7,9 @@ Architecture: iphoneos-arm
 Filename: ./debs/cydiastore_net.epelaez.iclassic_v1.5.deb
 Size: 661
 MD5sum: 1D86363F85D9941F2412FC11C3E8F986
+SHA1: 1C07F0CC052101B87940AB6C38649683E85CB918
+SHA256: E9AC37FD8AD199046B869EF76352C52447260308D9AFBFD0A76EF44BA30C20E7
 Description: This is my Repo. Contact me: aguiaescaldante2021@gmail.com for new tweaks
 Name: iClassic
 Author: Pelaez <me@epelaez.net>
-Depiction: https://aguiaescaldante.github.io/repo/depictions/?p=net.epelaez.iclassic
+
