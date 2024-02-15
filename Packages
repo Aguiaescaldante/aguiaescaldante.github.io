@@ -17,7 +17,7 @@ Package: com.aguiaescaldante.iclassic
 Version: 1.5
 Section: Tweaks
 Maintainer: AguiaEscaldante´s repo <aguiaescaldante2021@gmail.com>
-Depends: firmware (>6.0)
+Depends: firmware (>6.0),  mobilesubstrate,applist
 Architecture: iphoneos-arm
 Filename: ./debs/cydiastore_net.epelaez.iclassic_v1.5.deb
 Size: 676822
