@@ -37,7 +37,7 @@ Maintainer: AguiaEscaldante´s repo <aguiaescaldante2021@gmail.com>
 Depends: firmware (>6.0),  mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/cydiastore_org.thebigboss.bridge_v1.1.6.deb
-Size: 676822
+Size: 9789710
 MD5sum: 4d116944d02d062a13c43b30a38acd3e
 SHA1: 7c7235edb8e03473ad2e375c2b467ee0fc2360bb
 SHA256: fa4073109cfff7dd5b5f2b191666526907e60719015dbd0b0c7074131adb8626
