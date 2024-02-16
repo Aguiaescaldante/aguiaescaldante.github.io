@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: AguiaEscaldante´s repo <aguiaescaldante2021@gmail.com>
 Depends: firmware (>6.0), mobilesubstrate,applist
 Architecture: iphoneos-arm
-Filename: ./debs/com.dba-tech.weathericon_6.0.2-1_iphoneos-arm.deb
+Filename: ./debs/com.aguiaescaldante.weathericon.deb
 Size: 158700
 MD5sum: 64e59b5739f5fdf545337b5ebb4771ec
 SHA1: 7628f0902397f36bf04f43cedd1163b84b0fa768
@@ -20,7 +20,7 @@ Section: Tweaks
 Maintainer: AguiaEscaldante´s repo <aguiaescaldante2021@gmail.com>
 Depends: firmware (>6.0),  mobilesubstrate,applist
 Architecture: iphoneos-arm
-Filename: ./debs/cydiastore_net.epelaez.iclassic_v1.5.deb
+Filename: ./debs/com.aguiaescaldante.iclassic.deb
 Size: 676822
 MD5sum: 1d86363f85d9941f2412fc11c3e8f986
 SHA1: 1c07f0cc052101b87940ab6c38649683e85cb918
@@ -36,7 +36,7 @@ Section: Tweaks
 Maintainer: AguiaEscaldante´s repo <aguiaescaldante2021@gmail.com>
 Depends: firmware (>6.0),  mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/cydiastore_org.thebigboss.bridge_v1.1.6.deb
+Filename: ./debs/com.aguiaescaldnte.bridge.deb
 Size: 9789710
 MD5sum: 4d116944d02d062a13c43b30a38acd3e
 SHA1: 7c7235edb8e03473ad2e375c2b467ee0fc2360bb
