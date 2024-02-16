@@ -1,4 +1,4 @@
-Package: com.dba-tech.weathericon
+Package: com.aguiaescaldante.weathericon
 Version: 6.0.2
 Section: Tweaks
 Maintainer: AguiaEscaldante´s repo <aguiaescaldante2021@gmail.com>
@@ -11,7 +11,7 @@ SHA1: 7628f0902397f36bf04f43cedd1163b84b0fa768
 SHA256: 6a4eb2c982730fa190f506cf1f2e1afe95abe984de34606d54de7917b6918871
 Description: This is my Repo. Recovered from Modmyi. Contact me: aguiaescaldante2021@gmail.com for new tweaks
 Name: WeatherIcon 6
-Author: dba Technologies, LLC <support@dba-technologies.com>
+Author: dba Technologies, LLC <aguiaescaldante2021@gmail.com>
 Depiction: https://github.com/Aguiaescaldante/repo/tree/gh-pages/depictions/com.dba-tech.weathericon_6.0.2-1_iphoneos-arm
 
 Package: com.aguiaescaldante.iclassic
@@ -27,6 +27,21 @@ SHA1: 1c07f0cc052101b87940ab6c38649683e85cb918
 SHA256: e9ac37fd8ad199046b869ef76352c52447260308d9afbfd0a76ef44ba30c20e7
 Description: This is my Repo. Recovered from BigBoss. Contact me: aguiaescaldante2021@gmail.com for new tweaks
 Name: iClassic
-Author: Pelaez <me@epelaez.net>
+Author: Pelaez <aguiaescaldante2021@gmail.com>
 Depiction: https://github.com/Aguiaescaldante/repo/tree/gh-pages/depictions/cydiastore_net.epelaez.iclassic_v1.5
 
+Package: com.aguiaescaldante.bridge
+Version: 1.1.6
+Section: Tweaks
+Maintainer: AguiaEscaldante´s repo <aguiaescaldante2021@gmail.com>
+Depends: firmware (>6.0),  mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/cydiastore_org.thebigboss.bridge_v1.1.6.deb
+Size: 676822
+MD5sum: 4d116944d02d062a13c43b30a38acd3e
+SHA1: 7c7235edb8e03473ad2e375c2b467ee0fc2360bb
+SHA256: fa4073109cfff7dd5b5f2b191666526907e60719015dbd0b0c7074131adb8626
+Description: This is my Repo. Recovered from BigBoss. Contact me: aguiaescaldante2021@gmail.com for new tweaks
+Name: Bridge
+Author: Jonas Gessner <aguiaescaldante2021@gmail.com>
+Depiction: https://github.com/Aguiaescaldante/repo/tree/gh-pages/depictions/cydiastore_net.epelaez.iclassic_v1.5
