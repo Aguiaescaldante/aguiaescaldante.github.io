@@ -1,10 +1,10 @@
-Package: com.aguiaescaldante.weathericon
+Package: com.dba-tech.weathericon
 Version: 6.0.2
 Section: Tweaks
 Maintainer: AguiaEscaldante´s repo <aguiaescaldante2021@gmail.com>
-Depends: firmware (>6.0), mobilesubstrate,applist
+Depends: firmware (>6.0), mobilesubstrate,applist,com.arichardson.WeePreferenceLoader
 Architecture: iphoneos-arm
-Filename: ./debs/com.aguiaescaldante.weathericon.deb
+Filename: ./debs/com.dba-tech.weathericon_6.0.2-1_iphoneos-arm.deb
 Size: 158700
 MD5sum: 64e59b5739f5fdf545337b5ebb4771ec
 SHA1: 7628f0902397f36bf04f43cedd1163b84b0fa768
@@ -12,7 +12,7 @@ SHA256: 6a4eb2c982730fa190f506cf1f2e1afe95abe984de34606d54de7917b6918871
 Description: This is my Repo. Recovered from Modmyi. Contact me: aguiaescaldante2021@gmail.com for new tweaks
 Name: WeatherIcon 6
 Author: dba Technologies, LLC <aguiaescaldante2021@gmail.com>
-Depiction: https://github.com/Aguiaescaldante/repo/tree/gh-pages/depictions/com.aguiaescaldante.weathericon
+Depiction: https://github.com/Aguiaescaldante/repo/tree/gh-pages/depictions/com.dba-tech.weathericon_6.0.2-1_iphoneos-arm
 
 Package: com.aguiaescaldante.iclassic
 Version: 1.5
@@ -45,3 +45,19 @@ Description: This is my Repo. Recovered from BigBoss. Contact me: aguiaescaldant
 Name: Bridge
 Author: Jonas Gessner <aguiaescaldante2021@gmail.com>
 Depiction: https://github.com/Aguiaescaldante/repo/tree/gh-pages/depictions/com.aguiaescaldnte.bridge
+
+Package: com.arichardson.WeePreferenceLoader
+Version: 1.1
+Section: System
+Maintainer: AguiaEscaldante´s repo <aguiaescaldante2021@gmail.com>
+Depends: firmware (>5.0),  mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/z_weepreferenceloader_1.1_iphoneos-arm-world68.spcs.bio.deb
+Size: 34584 
+MD5sum: 35bf62f2243161cc671d15b13a880cd2
+SHA1: 68de12f2e4097efe9e45a0adb0f30645bcdfd314
+SHA256: 842c4fc51d546ed6557c7f2e4da472ca4f617645c571b8253a05d1715caca58f
+Description: Adds live weather to any icon on SpringBoard and to your status bar. Recovered from Modmyi. Contact me: aguiaescaldante2021@gmail.com for new tweaks
+Name: WeePreferenceLoader
+Author: Andrew Richardson <aguiaescaldante2021@gmail.com>
+Depiction: https://github.com/Aguiaescaldante/repo/tree/gh-pages/depictions/z_weepreferenceloader_1.1_iphoneos-arm-world68.spcs.bio

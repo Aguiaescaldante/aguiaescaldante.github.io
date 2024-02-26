@@ -1,19 +1,19 @@
 <package>
-	<id>com.aguiaescaldante.weathericon</id>
-	<name>WeatherIcon6</name>
-	<version>6.0.2-1</version>
+	<id>com.arichardson.weepreferenceloader</id>
+	<name>WeePreferenceLoader</name>
+	<version>1.1-1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>6.0</miniOS>
+			<miniOS>5.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Puts live weather information on top of the weather icon</shortDescription>
+	<shortDescription>A framework to easily add preferences to the Notifications settings. Perfect for Weathericon6</shortDescription>
 	<descriptionlist>
-		<description>Puts live weather information on top of the weather icon.</description>
-		<description>It has more description lines.</description>
+		<description>A framework to easily add preferences to the Notifications settings. Perfect for Weathericon6</description>
+		<description>A framework to easily add preferences to the Notifications settings. Perfect for Weathericon6</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
